@@ -48,3 +48,22 @@ Step: For THE HOPE ONLINE SHOP
    3. style div.rating, span and last span
    4. Create Product component
    5. Use Rating component
+
+5. Build Product Screen
+   1. Install react-router-dom
+   2. Use BrowserRouter and Route for Home Screen
+   3. Create HomeScreen.js
+   4. Add product list code there
+   5. Create ProductScreen.js
+   6. Add new Route from product details to App.js
+   7. Create 3 columns for product image, info and action
+
+   8. create Loading Component
+   9. create Message Box Component
+   10. use them in HomeScreen
+11. Install ESlint For Code Linting
+    1. install VSCode eslint extension
+    2. npm install -D eslint
+    3. run ./node_modules/.bin/eslint --init
+    4. Create ./frontend/.env
+    5. Add SKIP_PREFLIGHT_CHECK=true
